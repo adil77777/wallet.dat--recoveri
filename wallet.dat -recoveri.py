@@ -1,4 +1,5 @@
-import sys
+import 9999999999999999
+
 import struct
 from bsddb.db import *
 from hashlib import sha256
